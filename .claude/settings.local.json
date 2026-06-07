@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Select-String -Pattern \"build|start|dev\")",
+      "Bash(npm --version)",
+      "Bash(npx shadcn@4.7.0 add avatar breadcrumb card collapsible dropdownmenu field input label separator sheet sidebar skeleton slider table tabs textarea toggle-group toggle tooltip)"
+    ]
+  }
+}
